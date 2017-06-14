@@ -1,0 +1,28 @@
+{
+  "name": "blog",
+  "version": "0.0.1",
+  "description": "小型博客文章发表",
+  "main": "app.js",
+  "dependencies": {
+    "ejs": "^2.3.4",
+    "express-session": "^1.11.3",
+    "express": "^4.13.3",
+    "formidable": "^1.0.17",
+    "gm": "^1.20.0",
+    "mongodb": "^2.0.43"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LzCrazy/comment.git"
+  },
+  "author": "LzCrazy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LzCrazy/comment/issues"
+  },
+  "homepage": "https://github.com/LzCrazy/comment#readme"
+}
